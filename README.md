@@ -39,7 +39,7 @@ A sophisticated contact management system that consolidates user information acr
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/SamP231004/Contact_Consolidation_Service
 cd Contact_Consolidation_Service
 ```
 
@@ -50,7 +50,8 @@ npm install
 
 3. Set up environment variables
 ```bash
-.env
+PORT=
+MONGODB_URI=
 ```
 
 4. Start the server
